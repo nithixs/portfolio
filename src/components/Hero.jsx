@@ -22,7 +22,7 @@ function Hero() {
       <div className="flex flex-wrap gap-4 mt-8 justify-center">
 
         <a
-          href="/resume.pdf"
+          href="/Resume_Nithies.pdf"
           download
           className="bg-white text-black px-6 py-3 rounded-lg font-semibold hover:bg-gray-300 transition"
         >
